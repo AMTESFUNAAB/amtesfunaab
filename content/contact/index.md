@@ -1,8 +1,8 @@
 ---
 type: contact
-title: Get in Touch
-seo_title: Contact
-description: Send me a message to provide feedback about the site, my writing, or anything else on your mind.
+title: Get in Touch with AMTES
+seo_title: Contact AMTES
+description: Reach out to us for inquiries, feedback, or if you're interested in writing a blog post for the AMTES blog.
 ---
 
-Get in touch to leave feedback or just say hello.
+We'd love to hear from you! Whether you want to provide feedback, make an inquiry, or contribute a blog post, feel free to get in touch with us.
