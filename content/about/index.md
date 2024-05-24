@@ -1,21 +1,25 @@
 ---
 type: about
 linktitle: About
-title: Hi, my name is Hugo.
-seo_title: About
-description: Learn more about my background and experience.
+title: About AMTES
+seo_title: About AMTES
+description: Learn more about the Mechatronics Engineering Department at FUNAAB.
 ---
 
-You can customize the about page heading and disable social links if desired. The rest of the content can be added with markdown. Please see [Github](https://github.com/wjh18/hugo-liftoff) for a full list of features and documentation.
+Welcome to the Mechatronics Engineering Department (AMTES) at FUNAAB. Here, you can learn about our mission, vision, and the exciting opportunities we offer.
 
-## Who am I?
+## Who are we?
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce sem augue, tristique luctus lobortis nec, cursus eu erat. Proin dictum vel enim a vestibulum.
+The Mechatronics Engineering Department at FUNAAB is dedicated to advancing the field of mechatronics through innovative research, quality education, and industry collaboration. Our students and faculty work together to push the boundaries of technology and engineering.
 
-## My Experience
+## Our Mission
 
-Integer est purus, aliquam ac enim aliquet, viverra sodales mauris. Integer neque sapien, fermentum sit amet augue in, vulputate pellentesque turpis. Quisque eget blandit turpis, in semper lectus.
+Our mission is to provide a dynamic and supportive learning environment that fosters creativity, critical thinking, and practical skills. We aim to produce graduates who are well-equipped to tackle the challenges of modern engineering.
+
+## Our Vision
+
+We envision a future where our graduates lead the way in engineering innovation, contributing to sustainable development and technological advancements globally. We strive to be a center of excellence in mechatronics engineering education and research.
 
 ## Learn More
 
-You can also link to [other pages]({{< ref "contact" >}}) in your markdown.
+Explore more about our department by [getting in touch with us]({{< ref "contact" >}}) or browsing through [our blog]({{< ref "projects" >}}). You can also follow us on our social media channels to stay updated with the latest news and events.

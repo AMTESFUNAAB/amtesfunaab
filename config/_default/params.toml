@@ -48,11 +48,12 @@ about_page_socials = true
 
 # Enable or disable individual social icons
 [social.links]
-twitter = "amtesfunaab"
-github = "amtesfunaab"
+twitter = "amtes_funaab"
+github = "AMTESFUNAAB"
 stack_overflow = "userid/amtesfunaab" # include user id
 email = "contact@amtesfunaab.edu.ng"
 linkedin = "amtesfunaab" # Comment out to disable
+instagram = "amtes_funaab"
 # mastodon_server = "example.social" # include subdomains if relevant, scheme not needed (defaults to https)
 # mastodon_user = "username" # don't include preceding @
 
@@ -61,5 +62,6 @@ linkedin = "amtesfunaab" # Comment out to disable
 facebook = true
 linkedin = true
 twitter = true
-reddit = true
+reddit = false
 email = true
+instagram = true
