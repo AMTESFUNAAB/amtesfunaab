@@ -3,7 +3,7 @@ title: Welcome to the AMTES Blog and Portfolio
 subtitle: Explore the latest updates, research, and projects from the Mechatronics Engineering Department at FUNAAB. Stay informed and engaged with our community.
 seo_title: AMTES Blog and Portfolio | Mechatronics Engineering Department at FUNAAB
 
-primary_cta_page: "about"
+primary_cta_page: "how-to-write"
 secondary_cta_page: "projects"
 
 posts_section_heading: Latest Posts
