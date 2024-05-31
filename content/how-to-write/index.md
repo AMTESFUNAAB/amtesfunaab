@@ -55,7 +55,7 @@ In the last paragraph summarize your main points and issues, or draw a conclusio
 
 **References:** Finally, provide a list of references that you directly used as sources for the information in the article.
 
-That’s it. Happy writing! Further questions? Email at amtesfunaab@gmail.com
+That’s it. Happy writing! Further questions? Email at amtesfunaab@gmail.com or use the [Contact]({{< ref "contact" >}}) page.
 
 ### References
 
