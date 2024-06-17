@@ -142,6 +142,20 @@ float readSensor() {
 }
 ```
 
+## Case Study: Development of a UAV-Based Maize Leaf Disease Detection and Classification System
+In 2024, a group of 4 final year Mechatronics Engineering students in our University (Federal University of Agriculture, Abeokuta) 
+researched on the development of a UAV-based maize leaf disease detection and classification system where they built a deep learning model with 
+the YOLO v5 model that identifies three kinds of diseases (Common Rust, Northern Leaf Blight, and Gray Spot) on maize leaves, and reports
+the discovery to the user/farmer. You can read more about it [here](https://researchgate.com). Pictures will be available soon.
+
+In this research, they trained their model on a computer but deployed it on a Raspberry Pi 5 which they can onboard as part of the UAV's payload.
+Of course, they included the weight of the board in their UAV design calculations, allowing enough flight time and less work done by the UAV.
+
+## Resources and Opportunities in Embedded Machine Learning
+As the world advances today towards the integration of Artificial Intelligence, there is a growing need for mechatronics engineering experts to master
+the art of embedding machine learning models on microcontrollers. To get started, you can visit [Edge Impulse](https://edgeimpulse.com/) for comprehensive
+tutorials on Tiny ML. They have free and paid products where they allow students and professionals to train models and deploy them on a wide range of supported boards.
+
 ## Conclusion
 
 Embedded Machine Learning is revolutionizing the way we interact with and utilize edge devices. By bringing intelligence to the edge, we can create more responsive, efficient, and autonomous systems in the field of mechatronics. Whether it's for predictive maintenance, autonomous navigation, or enhanced human-machine interaction, the possibilities are vast and continually expanding.
