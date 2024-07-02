@@ -135,8 +135,6 @@ for developing problem-solving skills and gaining confidence in your abilities. 
 
 ## Career Paths in Mechatronics Engineering
 
-## Career Paths in Mechatronics Engineering
-
 Choosing a career path in Mechatronics Engineering opens up a world of possibilities. Here are some of the exciting roles you can pursue:
 
 ### 1. **Robotics Engineer**
