@@ -95,10 +95,42 @@ the course of this, you will learn the following:
 - workshop safety practices
 - engineering communication practices
 - Arduino programming and prototyping
+- electronic devices and how to troubleshoot them
+- mechanical engines and how to troubleshoot them
 
-In CSC201, you will learn about computer architecture and organization, and you will learn about the C++ programming language. 
+In CSC201, you will learn about computer architecture and organization, along with the C++ programming language.
 
-You'll have access to well-equipped laboratories where you can apply your theoretical knowledge to real-world projects. This hands-on experience is crucial for developing problem-solving skills and gaining confidence in your abilities.
+In your third year, you will learn about FPGA programming, logic circuits and microcontrollers. You will go deeper in electronic devices and their
+applications. You will learn about sensors and actuators, entrepreneurship in engineering, and advanced engineering mathematics that are pre-requisite to
+machine learning.
+
+You will also go for your Student's Industrial Work Experience Seminar I (SIWES I) where you will put all that you have learned into practice,
+depending on the company/industry you choose to intern at. AMTES as a body, Mechatronics Engineering as a department,
+and the SWEP as a program are all working together to make it easier for you to get a befitting internship placement both in your third and fourth year.
+However, your skills, network, and awareness will serve you a lot in it. Hopefully, you have worked on projects (both self-induced and as part of a course)
+that would make you stand out during your application phase.
+
+In fourth year, You will also learn about:
+- CNC machining and programming
+- computer aided design and manufacturing
+- statistics
+- computer hardware engineering
+
+In your fifth and final year, you will learn about:
+- advanced control systems
+- microcontroller architecture
+- the Assembly language
+- machine vision and AI in practice
+- embedded systems design and development
+- PLC programming and ladder logic
+- mobile robotics.
+
+Now, some of these classes will be theoretical, but you are at leisure to go further into the subject-matter, because you are mainly responsible
+for your own education.
+
+By the end of your 5-year stay in FUNAAB Mechatronics Engineering department, you must have had a rich theoretical and practical background into
+robotics and automated systems. You would be asked to build projects in groups, and the hands-on experience is crucial 
+for developing problem-solving skills and gaining confidence in your abilities. Your B.Eng. would be well achieved.
 
 ## Career Paths in Mechatronics Engineering
 
