@@ -35,7 +35,7 @@ disable_comments: false
 
 Mechatronics Engineering is a relatively new course in Nigerian universities at the Bachelor's level. 
 It's an exciting and challenging field for students interested in Robotics and Automation. 
-The [Department of Mechatronics Engineering in FUNAAB](https://www.amtesfunaab.com.ng/) was founded in 20XX, 
+The [Department of Mechatronics Engineering in FUNAAB](https://www.amtesfunaab.com.ng/) was founded in 2015, 
 with Prof. Aborisade as the first Head of the Department.
 
 ## Why Study Mechatronics Engineering?
@@ -110,13 +110,13 @@ and the SWEP as a program are all working together to make it easier for you to 
 However, your skills, network, and awareness will serve you a lot in it. Hopefully, you have worked on projects (both self-induced and as part of a course)
 that would make you stand out during your application phase.
 
-In fourth year, You will also learn about:
+In fourth year, you will also learn about:
 - CNC machining and programming
 - computer aided design and manufacturing
 - statistics
 - computer hardware engineering
 
-In your fifth and final year, you will learn about:
+In your fifth -- and final year, God willing 😅 --, you will learn about:
 - advanced control systems
 - microcontroller architecture
 - the Assembly language
@@ -156,6 +156,11 @@ Engage in cutting-edge research to develop new technologies and innovations in m
 Many graduates from FUNAAB's Mechatronics Engineering program have gone on to achieve great success in their careers. 
 Some have started their own tech companies, while others work for leading multinational corporations. 
 These success stories highlight the quality of education and training provided by the department.
+
+> Don't communicate by sharing memory, share memory by communicating.<br>
+> — <cite>Rob Pike[^1]</cite>
+
+[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
 
 ## Extracurricular Activities
 
