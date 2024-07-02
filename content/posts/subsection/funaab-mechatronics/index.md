@@ -155,20 +155,27 @@ Engage in cutting-edge research to develop new technologies and innovations in m
 
 Many graduates from FUNAAB's Mechatronics Engineering program have gone on to achieve great success in their careers. 
 Some have started their own tech companies, while others work for leading multinational corporations. 
-These success stories highlight the quality of education and training provided by the department.
+These success stories highlight the quality of education and training provided by the department. You will find some of these below.
 
-> Don't communicate by sharing memory, share memory by communicating.<br>
-> — <cite>Rob Pike[^1]</cite>
+> I believe I had a good time studying Mechatronics Engineering at FUNAAB. The course brought me closer to my dream of becoming a Robotics Engineer, 
+> especially with the heavy emphasis on Embedded Systems and AI in the final years at the department. I appreciate how friendly the lecturers and technicians
+> are, as I had no issues communicating with my lecturers and collaborating with them. I would advise current undergraduates to build projects 
+> after each course is completed, to find the interconnection between several courses, and to study and network beyond school.<br>
+> — <cite>MacBobby Chibuzor[^1]</cite>
 
-[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
+[^1]: MacBobby Chibuzor is a multi-talented engineer with a background in software engineering and a flare for embedded systems. He is currently a finalist in the 
+department, and is the author of this amazing article.
 
 ## Extracurricular Activities
-
-FUNAAB offers various clubs and organizations that can enhance your learning experience. 
-The Mechatronics Engineering Department has an active student society that organizes workshops, seminars, and competitions. 
+The Association of Mechatronics Engineering Students (AMTES) FUNAAB has put together a set of activities that can help
+you improve your skills and network with other students. These activities are open to all students, and are free of charge.
+FUNAAB offers various clubs and organizations that can enhance your learning experience. AMTES organizes workshops, seminars, and competitions. 
 Participating in these activities helps you network with peers and industry professionals, and gain additional skills outside the classroom.
 
-## How to Apply
+With your help and contributions, AMTES plans to enhance the range of extracurricular activities, and has been working
+on a new program to this regard.
+
+## How to Apply for Mechatronics Engineering at FUNAAB
 
 To apply for the Mechatronics Engineering program at FUNAAB, you'll need to meet the university's admission requirements. 
 This typically includes passing the Unified Tertiary Matriculation Examination (UTME) and having good grades in relevant 
