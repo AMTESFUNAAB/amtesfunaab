@@ -79,7 +79,26 @@ You'll start with foundational courses in mathematics, physics, and basic engine
 - **Robotics:** Explore the design, construction, and operation of robots.
 
 ### 2. **Hands-On Experience**
-FUNAAB's Mechatronics Engineering program emphasizes practical learning. You'll have access to well-equipped laboratories where you can apply your theoretical knowledge to real-world projects. This hands-on experience is crucial for developing problem-solving skills and gaining confidence in your abilities.
+FUNAAB's Mechatronics Engineering program emphasizes both a theoretical and practical learning.
+You have access to the general laboratory, although the Virtual Prototyping laboratory is only used when there is a workshop session.
+
+MTE 102 introduces you in freshman year to Mechatronics Engineering, and you learn about sensors and actuators, robotics, and automated systems.
+You get a hands-on experience with the Arduino UNO microcontroller and Fritzing software for prototyping electronic circuits.
+
+> You're advised to develop yourself personally with these tools, try to procure an Arduino UNO complete kit for yourself, and learn
+> how to use Fritzing. Build different projects and improve your skills. This will be useful in convincing a company to hire you during your internship
+> in year four.
+
+In your second year, you take the Students' Work Experience Program (SWEP) where you learn about different engineering-related parts of FUNAAB. During
+the course of this, you will learn the following:
+- how to collaborate with engineers from other disciplines
+- workshop safety practices
+- engineering communication practices
+- Arduino programming and prototyping
+
+In CSC201, you will learn about computer architecture and organization, and you will learn about the C++ programming language. 
+
+You'll have access to well-equipped laboratories where you can apply your theoretical knowledge to real-world projects. This hands-on experience is crucial for developing problem-solving skills and gaining confidence in your abilities.
 
 ## Career Paths in Mechatronics Engineering
 
